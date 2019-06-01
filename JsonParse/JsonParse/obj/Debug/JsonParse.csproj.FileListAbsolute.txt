@@ -1,0 +1,10 @@
+D:\RND\Development\Tree\JsonParse\JsonParse\bin\Debug\JsonParse.exe.config
+D:\RND\Development\Tree\JsonParse\JsonParse\bin\Debug\JsonParse.exe
+D:\RND\Development\Tree\JsonParse\JsonParse\bin\Debug\JsonParse.pdb
+D:\RND\Development\Tree\JsonParse\JsonParse\bin\Debug\Newtonsoft.Json.dll
+D:\RND\Development\Tree\JsonParse\JsonParse\bin\Debug\Newtonsoft.Json.xml
+D:\RND\Development\Tree\JsonParse\JsonParse\obj\Debug\JsonParse.csprojAssemblyReference.cache
+D:\RND\Development\Tree\JsonParse\JsonParse\obj\Debug\JsonParse.csproj.CoreCompileInputs.cache
+D:\RND\Development\Tree\JsonParse\JsonParse\obj\Debug\JsonParse.csproj.CopyComplete
+D:\RND\Development\Tree\JsonParse\JsonParse\obj\Debug\JsonParse.exe
+D:\RND\Development\Tree\JsonParse\JsonParse\obj\Debug\JsonParse.pdb
